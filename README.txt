@@ -61,5 +61,5 @@ Main Loop:
 The final `while` loop runs the `passwordGenerator()` and handles the prompt for regeneration, allowing continuous use until the user enters `N`.
 
 Author:
-Shikhar Saxena : (25BCE11114)
+Neelabh Mishra : (25BCE10791)
 -----
